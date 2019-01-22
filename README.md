@@ -1,5 +1,5 @@
 # Iris-flower-classification-using-ML-classifiers
-Implementing k – Nearest Neighbor classifier from scratch to classify data from the famous IRIS dataset of scikit-learn.
+Implementation of k – Nearest Neighbor classifier from scratch to classify data from the famous IRIS dataset of scikit-learn.
 
 Some lines of the code has been made comment deliberately. You can uncomment these to compare the accuracy of this model with default kNN implementation provided by scikit-learn.
 
